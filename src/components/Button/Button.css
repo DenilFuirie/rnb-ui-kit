@@ -1,0 +1,11 @@
+.button {
+  padding: 10px 5px;
+  color: black;
+  border: 1px solid black;
+  background: red;
+  font-size: 60px;
+
+  &.default {
+    color: blue;
+  }
+}
